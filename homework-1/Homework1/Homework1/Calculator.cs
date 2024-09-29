@@ -8,4 +8,3 @@
         public static int Subtract(int x, int y) => x - y;
     }
 }
-
